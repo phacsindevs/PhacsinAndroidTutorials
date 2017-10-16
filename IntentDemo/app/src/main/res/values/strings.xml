@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">UIWidgetsDemo</string>
+    <string name="app_name">IntentDemo</string>
     <string name="email_text">Email</string>
     <string name="password_text">Password</string>
     <string name="remember_me_text">Remember Me</string>
